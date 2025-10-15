@@ -1,0 +1,27 @@
+Finance Industry
+
+Common Antivirus Used: Trend Micro, CrowdStrike, Microsoft Defender, SentinelOne.
+
+File Storage: Usually in secure server drives (not local C:).
+
+Example paths:
+
+D:\Program Files\AV_Suite\ – antivirus program files
+
+D:\Data\Security\Logs\ – scan logs and reports
+
+\\Server\SecurityUpdates\ – shared update files
+
+Healthcare Sector
+
+Common Antivirus Used: Microsoft Defender, SentinelOne, Kaspersky, ESET.
+
+File Storage: Mostly on local drives or hospital servers.
+
+Example paths:
+
+C:\Program Files\AV_HealthSuite\ – antivirus program files
+
+C:\ProgramData\AV_HealthSuite\Logs\ – scan logs
+
+\\HospitalServer\AV_Reports\ – centralized reports
